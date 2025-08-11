@@ -1,10 +1,11 @@
 # === Hand Gesture Thing (Grade 10 vibes) ===
-# Shows your hand landmarks and guesses the gesture.
+# Python 12 is not supported yet. Please use python 11
 # Keys:
 #   q = quit
 #   r = start/stop recording samples
 #   1..5 = which gesture you are recording
 #   e = print stats
+# https://www.python.org/downloads/release/python-3119/
 
 import subprocess
 import sys
