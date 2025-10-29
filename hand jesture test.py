@@ -1,4 +1,3 @@
-# === Hand Gesture Thing (Grade 10 vibes) ===
 # Python 12 is not supported yet. Please use python 11
 # Keys:
 #   q = quit
